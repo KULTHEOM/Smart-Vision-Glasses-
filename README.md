@@ -25,6 +25,6 @@ We are currently working on a multimodal model that integrates all the functiona
 
 **Future Plans**
 
-1) **Full Book Reading: **Enhance text-to-speech capabilities to enable reading of entire books.
-2) **Obstacle-Free GPS Navigation: **Integrate advanced obstacle detection for a seamless navigation experience.
+1) **Full Book Reading:** Enhance text-to-speech capabilities to enable reading of entire books.
+2) **Obstacle-Free GPS Navigation:** Integrate advanced obstacle detection for a seamless navigation experience.
 3) **Complete Multimodal Integration:** Finalize the multimodal system for full integration and real-time processing on the Jetson Nano, with all outputs in audio format.
